@@ -1,10 +1,23 @@
-<!DOCTYPE html>
+<Doctype html>
 <html>
-<head>
-<title>Hello World</title>
-</head>
+<title>CODE LOVER</title>
 <body>
-<h1>HELLO GUYS!</h1>
-</body>
-</html>
 
+
+<article>
+<header>
+<h1>Jechristoffer Y. Guillemer</h1>
+<p>BSIT-1</p>
+</header>
+</article>
+
+<main>
+<h1>Address</h2>
+<p>39 P. Del Rosario Ext</p>
+
+<footer>
+<p>I am a boy and handsome</p>
+</footer>
+
+</html>
+</body>
