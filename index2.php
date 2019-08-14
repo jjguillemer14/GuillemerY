@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head><title>HOME PAGE</title>
-<body>
+<body bgcolor="brown">
+
 <center><h1>GuillemerJ Photo Gallery</h1>
 <h3>LIST OF PHOTOS</h3>
 <a href="photo1.php">PHOTO 1 ME ONLY</a><br>
