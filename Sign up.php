@@ -2,7 +2,7 @@
 <html>
 <head><title>Reset Password</title>
 
-<body align ="center">
+<body align ="center" bgcolor="brown">
 <h2>Sign Up</h3>
 </align>
 <center>
