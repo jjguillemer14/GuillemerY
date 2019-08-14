@@ -5,7 +5,7 @@
 <body align ="center">
 <h1>Login</h1>
 <br/>
-<form submit ="/submit_page.php">
+<form action ="index2.php">
 <h4>Username: <input type "user"></h4>
 <h4>Password:<input type"password></h4>
 <input type ="submit" value="Sign in">
