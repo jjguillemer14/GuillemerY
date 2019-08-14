@@ -2,7 +2,7 @@
 <html>
 <head><title>LOG.IN</title>
 
-<body align ="center">
+<body align ="center" bgcolor="brown" >
 <h1>Login</h1>
 <br/>
 <form action ="index2.php">
