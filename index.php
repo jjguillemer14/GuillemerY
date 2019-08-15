@@ -1,4 +1,4 @@
-<!DOCTYP html>
+<!DOCTYPE html>
 <html>
 <head><title>LOG.IN</title>
 
