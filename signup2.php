@@ -13,8 +13,6 @@
 <br/>
 <br/>
 <br/>
-<input type= "text" placeholder=" Input your Email Address."</h4>
-<input type = "submit" value ="Sign Up">
 
 </body>
 </html>
