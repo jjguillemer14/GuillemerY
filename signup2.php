@@ -6,13 +6,15 @@
 <h3>Sign Up</h3>
 </align>
 <center>
-<h4>Check your email to confirm your account<input type"text></h4>
+  <h4>Check your email to confirm your account</h4>
+  <form action="index.php">
+    <input type="submit" value="Confirm">
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
-
+  </form>
 </body>
 </html>
