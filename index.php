@@ -12,7 +12,7 @@
 <br/>
 <a href="resetpassword.php">Reset Password</a>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="sign up.php">Sign Up</a>
+<a href="signup.php">Sign Up</a>
 
 
 </form>
