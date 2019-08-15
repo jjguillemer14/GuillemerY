@@ -18,8 +18,10 @@
 <br/>
 <br/>
 <h4> Please enter you Email Address:
-<input type= "text" placeholder=" Input your Email Addres."</h4>
+<input type= "text" placeholder=" Input your Email Address."</h4>
+  <form action="signup2.php">
 <input type = "submit" value ="Sign Up">
+  </form>
 
 </body>
 </html>
