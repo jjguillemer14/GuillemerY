@@ -11,7 +11,6 @@
 <h4>Password:<input type"text></h4>
 <h4>Confirm Password:<input type"text></h4>
 
-
 <br/>
 <br/>
 <br/>
