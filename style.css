@@ -1,0 +1,56 @@
+
+body {
+	background-image: url(https://media.giphy.com/media/pRQmCJ4pMXftS/giphy.gif);
+  font-family: "Lato", sans-serif;
+}
+
+/* Fixed sidenav, full height */
+.sidenav {
+  height: 100%;
+  width: 200px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #ff99bb;
+  overflow-x: hidden;
+  padding-top: 20px;
+  border: 3px solid white;
+}
+
+/* Style the sidenav links and the dropdown button */
+.sidenav a, .dropdown-btn {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
+  display: block;
+  border: none;
+  background: none;
+  width: 100%;
+  text-align: left;
+  cursor: pointer;
+    border: 2px solid white;
+    background-color:#e6004c;
+}
+
+/* On mouse-over */
+.sidenav a:hover, .dropdown-btn:hover {
+  color: #ffccdd;
+}
+
+/* Main content */
+.main {
+  background:#ff80aa;
+  border: 3px solid black;
+  text-align: center;
+  margin-left: 200px; /* Same as the width of the sidenav */
+  font-size: 20px; /* Increased text to enable scrolling */
+  padding: 0px 10px;
+}
+
+.main header {
+  background:#ff4d88;
+  border: 3px solid white;
+  font-size: 50px;
+}
